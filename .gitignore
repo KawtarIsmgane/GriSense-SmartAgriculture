@@ -1,0 +1,21 @@
+# Environnements virtuels (TRÈS IMPORTANT)
+test_env/
+env/
+venv/
+.env/
+
+# Bibliothèques et caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+
+# Fichiers lourds de modèles et données
+*.pth
+*.h5
+*.onnx
+data/
+New Plant Diseases Dataset/
+
+# Sécurité (Firebase)
+*.json
