@@ -1,4 +1,4 @@
-ح# GriSense - Smart Agriculture 🌿
+# GriSense - Smart Agriculture 🌿
 
 Système de détection des maladies végétales par Deep Learning et surveillance IoT en temps réel.
 
